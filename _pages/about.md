@@ -47,7 +47,7 @@ Analyze Data to Answer Questions
 Google Data Analytics Capstone: Complete a Case Study
 
 [AWS Certified Cloud Practitioner (August 08, 2025)](https://www.credly.com/badges/0593a2d8-3e31-4f0f-b6f2-b6d54d9d44fc)<br>
-**Certification Overview**<br>
+**Certification Overview**
 * Cloud Concepts: Core AWS services and global infrastructure
 * Security and Compliance: AWS shared responsibility model
 * Technology: Core services like EC2, S3, RDS, and Lambda
