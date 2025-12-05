@@ -35,8 +35,7 @@ analytics, programming, and computation, including:
 * Machine Learning
 * Information Retrieval
 
-**Google Data Analytics Professional Certificate (August 31, 2022)**  
-[Certificate Link](https://coursera.org/share/31dec997ebb7f1809a2825b2bdd91df1)<br>
+[Google Data Analytics Professional Certificate (August 31, 2022)](https://coursera.org/share/31dec997ebb7f1809a2825b2bdd91df1)<br>
 **Course Certificates Completed**<br>
 Prepare Data for Exploration
 Data Analysis with R Programming
@@ -47,8 +46,7 @@ Foundations: Data, Data, Everywhere
 Analyze Data to Answer Questions
 Google Data Analytics Capstone: Complete a Case Study
 
-**AWS Certified Cloud Practitioner (August 08, 2025)
-[Certificate Link](https://www.credly.com/badges/0593a2d8-3e31-4f0f-b6f2-b6d54d9d44fc)<br>
+[AWS Certified Cloud Practitioner (August 08, 2025)](https://www.credly.com/badges/0593a2d8-3e31-4f0f-b6f2-b6d54d9d44fc)<br>
 **Certification Overview**<br>
 * Cloud Concepts: Core AWS services and global infrastructure
 * Security and Compliance: AWS shared responsibility model
