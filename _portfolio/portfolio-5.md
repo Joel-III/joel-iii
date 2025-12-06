@@ -1,3 +1,9 @@
+---
+title: "University Group Software Engineering Project"
+excerpt: "CMPUT 301 group project outline with a link to the GitHub Repo at the end"
+collection: portfolio
+---
+
 # CMPUT 301 W25 - Team VibeCheck
 
 ## Team Members
