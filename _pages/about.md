@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computing Science graduate who recently graduated from the University of Alberta, with a strong academic foundation and practical experience in data
-analysis, software development, and productivity tools. I hold a Google Data Analytics
-Professional Certificate and an AWS Cloud Practitioner Certificate, and have applied my
-skills in academic projects and personal initiatives. I am now seeking full-time opportunities—whether in data science, administrative support, customer service, or community engagement—where I can contribute meaningfully, build on my hands-on experience, and grow within a supportive team environment. Known for being detail-oriented, tech-savvy, and collaborative, I take pride in supporting others and delivering high-quality results.
+I am a Computing Science graduate who recently graduated from the University of Alberta, with a strong academic foundation and practical experience in data analysis and software development. I hold a Google Data Analytics Professional Certificate and an AWS Cloud Practitioner Certificate, and have applied my skills in academic projects and personal initiatives. I am now seeking full-time opportunities, primarily in data science/analytics, where I can contribute meaningfully, build on my hands-on experience, and grow within a supportive team environment. I take pride in supporting others, delivering high-quality results, and always learning and picking up new tools.
 
 
 ## Summary of Qualifications
